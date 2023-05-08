@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Grav.cz (gravcz.github.io)
 ---
 
 ## ⚙️ Welcome to the Grav.cz support website on the GitHub Pages!
