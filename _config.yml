@@ -1,0 +1,9 @@
+theme: minima
+title: Grav.cz (gravcz.github.io)
+description: Grav.cz support website on GitHub Pages
+author:
+  name: Vít Petira
+  email: petira@grav.cz
+header_pages:
+  - articles/index.md
+  - about/index.md
