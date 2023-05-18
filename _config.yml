@@ -6,5 +6,6 @@ author:
   email: petira@grav.cz
 header_pages:
   - sites/index.md
+  - plugins/index.md
   - articles/index.md
   - about/index.md
