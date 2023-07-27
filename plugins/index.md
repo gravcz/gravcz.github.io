@@ -5,6 +5,7 @@ title: Plugins
 
 ### Articles about plugins
 
+* [Doplněk Problems](https://www.grav.cz/blog/doplnek-problems)
 * [Doplněk Reading Time](https://www.grav.cz/blog/doplnek-reading-time)
 * [Doplněk CNB Exchange Rates](https://www.grav.cz/blog/doplnek-cnb-exchange-rates)
 * [Doplněk Timestamp](https://www.grav.cz/blog/doplnek-timestamp)
