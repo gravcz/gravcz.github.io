@@ -13,6 +13,7 @@ title: Articles
 
 ### Recommended articles
 
+* [Vlastní styly v originální šabloně webu](https://www.grav.cz/blog/vlastni-styly-v-originalni-sablone-webu)
 * [Injektování obsahu stránek](https://www.grav.cz/blog/injektovani-obsahu-stranek)
 * [Zpřístupnění více šablon webu prostřednictvím doplňku Themer](https://www.grav.cz/blog/zpristupneni-vice-sablon-webu-prostrednictvim-doplnku-themer)
 * [Nastavení nebo změna URL webu](https://www.grav.cz/blog/nastaveni-nebo-zmena-url-webu)
